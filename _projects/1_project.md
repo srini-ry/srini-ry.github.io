@@ -2,7 +2,7 @@
 layout: page
 title: AI Resource List
 description: Running List of useful resources/links in the current AI landscape
-img: assets/img/12.jpg
+img: assets/img/13.jpg
 importance: 1
 category: work
 related_publications: false
@@ -79,5 +79,5 @@ From ADAS to vehicle intelligence, and interactive UI enhancements, the scope is
 
 
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/13.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>

@@ -1,13 +1,13 @@
 ---
-layout: page
-title: Safety Learnings from AVs, in the world of LLMs 
+layout: post
+title: Tracking Safety - from AVs to the world of LLMs 
+date: 20124-03-10 16:40:16
 description: Learnings on safety and risk management from ADAS & AV industry, and an analysis of what's happening with LLMs 
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+tags: AI, Safety, LLMs, Preparedness
+categories: AI 
 ---
-## Managing Risk in the world of deep-tech  
+
+## Managing Risk in deep-tech  
 
 With time, we're seeing more and more startups and fast paced teams making their mark in the field of Deeptech- the likes of nuclear fission/fusion, space tech, biotech, autonomous vehicles etc. The horizontal mother to all these, is evolving to be the field of powerful AI models,which could influence the development of any of those other fields. 
 
