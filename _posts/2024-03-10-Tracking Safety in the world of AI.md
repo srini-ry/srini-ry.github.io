@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tracking Safety - from AVs to the world of LLMs 
-date: 20124-03-10 16:40:16
+date: 2024-03-10 16:40:16
 description: Learnings on safety and risk management from ADAS & AV industry, and an analysis of what's happening with LLMs 
 tags: AI, Safety, LLMs, Preparedness
 categories: AI 
