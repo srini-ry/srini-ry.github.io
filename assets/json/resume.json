@@ -1,9 +1,8 @@
 {
   "basics": {
       "name": "Srinivas Reddy Aellala",
-      "label": "Senior Director Product",
+      "Current Position": "Senior Director Product",
       "email": "srinivasr.iitkgp@gmail.com",
-      "phone": "4084317340",
       "location": {
           "city": "Union City",
           "region": "CA",
@@ -23,11 +22,12 @@
       {
           "name": "Ridecell",
           "position": "Senior Director Product",
-          "url": "",
-          "startDate": "2021-05-01",
+          "url": "https://ridecell.com/",
+          "startDate": "2021",
           "endDate": "PRESENT",
-          "summary": "Leading the AI & Data branch, driving major accounts with multi-million $ ARR & strategic investments. Crafting new safety & privacy practices, ensuring regulatory compliance for EU and NA regions.",
+          "summary": "Leading the AI & Data branch, driving major accounts with multi-million $ ARR & strategic investments",
           "highlights": [
+            "Contributed to revenue growth of 100% YoY for past 3 years",
             "Leading Ops-copilot - a fleet focused AI assistant with RAG & agentic frameworks; for  productivity of enterprises operating 3M+ vehicles globally",  
             "Crafting new safety & privacy practices with IT and ensuring regulatory compliance for EU and NA regions, for all AI and  LLM solutions",
             "Led Nemo, a data product, to identify and monitor safety-relevant scenarios  and manage unknown unknowns from large scale ADAS data(2M+kms/day).  Designed for the safety teams of Automotive OEMs, aiding  SOTIF compliance."
@@ -36,9 +36,9 @@
       {
           "name": "Ridecell",
           "position": "Principal Product",
-          "url": "",
-          "startDate": "2017-10-01",
-          "endDate": "2021-04-30",
+          "url": "https://ridecell.com/",
+          "startDate": "2017",
+          "endDate": "2021",
           "summary": "Built the core team for developing advanced vehicle technologies",
           "highlights": [
             "Responsible for all communications with CA DMV and government for public road operations",
@@ -51,8 +51,8 @@
           "name": "Auro Robotics",
           "position": "Co-founder & CPO",
           "url": "",
-          "startDate": "2014-02-01",
-          "endDate": "2017-10-31",
+          "startDate": "2014",
+          "endDate": "2017",
           "summary": "Built and launched the first commercially operated autonomous shuttle service in the USA. Co-led engineering team on AV software stack development.",
           "highlights": [
             "A YCombinator 2015 company. Built and launched the first commercially operated autonomous shuttle service in the USA,  in November 2016.",
@@ -66,8 +66,8 @@
           "name": "Qualcomm",
           "position": "Engineer",
           "url": "",
-          "startDate": "2013-06-01",
-          "endDate": "2014-01-31",
+          "startDate": "2013",
+          "endDate": "2014",
           "highlights": [
             "Worked on top-level physical design of Modem Chip in a 7 nm 4G LTE Product", 
             "Awarded with 'Qualstar' recognition for enabling significant productivity improvement in the QMD (Testchip) execution."
@@ -77,8 +77,8 @@
           "name": "Aadhaarup",
           "position": "Co-founder & Hardware Lead",
           "url": "",
-          "startDate": "2012-06-01",
-          "endDate": "2013-05-31",
+          "startDate": "2012",
+          "endDate": "2013",
           "highlights": [
             "Mobile Payments startup - Square equivalent POS based on India’s UUID system Aadhaar for merchants and consumers, seed funded by GSF",
             "Designed and engineered a pocket-sized point-of-sale (POS) device that can plug into the audio jack of any mobile phone to accept credit cards on the go"
@@ -91,26 +91,26 @@
           "institution": "IIT (Indian Institute of Technology) Kharagpur",
           "area": "Electrical Engineering",
           "studyType": "Masters + Bachelor",
-          "startDate": "2008-01-01",
-          "endDate": "2013-01-01",
+          "startDate": "2008",
+          "endDate": "2013",
           "score": "8.0/10.0"
       }
   ],
   "awards": [
       {
           "title": "Forbes Asia 30 under 30",
-          "date": "2017-01-01",
+          "date": "2017",
           "awarder": "Forbes Asia"
       },
       {
           "title": "PRISM Grant",
-          "date": "2014-01-01",
+          "date": "2014",
           "awarder": "President of India",
           "summary": "Sanctioned by the President of India for AV research"
       },
       {
           "title": "Qualstar",
-          "date": "2013-01-01",
+          "date": "2013",
           "awarder": "Qualcomm India"
       }
   ],
@@ -142,7 +142,23 @@
           ]
       }
   ],
-  "languages": ["English", "Hindi", "Telugu"],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Telugu",
+      "fluency": "Native Speaker",
+      "icon": ""
+    }
+  ],
   "interests": [],
   "references": [],
   "projects": [],
