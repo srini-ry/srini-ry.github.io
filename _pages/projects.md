@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+title: resources
+permalink: /resources/
+description: A working shortlist of useful and relevant tools, repos, papers
+nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false

@@ -21,7 +21,7 @@ I've been fortunate to have worked on risk management problems of AI systems in 
 
 For all the teams I have worked with over the years - be it the regulatory body NHTSA, the Safety teams of the German Automotive OEMs or the Risk teams of Insurance companies; even though the business objectives and timelines differed based on their respective roles in the industry, the common goal has been to come up with an efficient statistical and empirical approach to estimate and contain the risk of Autonomous Vehicle Systems. 
 
-Whichever method one choses, what I realized over the years is - measuring risk and creating guidelines for AI and safety-critical systems, is a continuous process that extends even to the culture and development practices of the given organization. 
+Whichever method one chooses, what I realized over the years is - measuring risk and creating guidelines for AI and safety-critical systems, is a continuous process that extends even to the culture and development practices of the given organization. 
 
 1. Safety should be inherently built within the design & build culture of every team of the org, not only as an isolated activity 
 1. It is challenging to balance the activities of fast build vs cautious safety mindset of an team- this is where the mettle of the org is decided 
@@ -29,6 +29,7 @@ Whichever method one choses, what I realized over the years is - measuring risk 
 1. Use a sufficiently large scale of data to measure your safety metrics
 1. Ensure a way of continously refreshing the datasets with real world deployments 
 1. Synthetic/Simulated data guided by system experts is another key complement to real world data 
+1. Drive alignment cross functionally , using simplified equations like Severity * Exposure = Risk  
 
 
 ## Status of Safety Initiatives in the LLM world 

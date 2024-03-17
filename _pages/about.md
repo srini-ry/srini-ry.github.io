@@ -29,3 +29,6 @@ robotics and AI.
 Previously, I co-founded Auro Robotics, a YCombinator-backed startup (YC S15) that built low-speed autonomous shuttles for last-mile transportation. I led the product development across three autonomous vehicle versions, and launched one of the first commercial autonomous shuttle services in the US in 2016. 
 I also received a research grant from the President of India and was named in the Forbes Asia 30 Under 30 list in 2017. 
 My technical background lies in robotics, AI and data. I drove/engaged multi-million dollar enterprise deals in automotive, insurance and mobility industries.
+
+Other Interests: 
+I'm a huge history buff. I'm also into poetry- wrote over 50 songs in Telugu and Hindi covering Love, Nature and Philosophy. 
