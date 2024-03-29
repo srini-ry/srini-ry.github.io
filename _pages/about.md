@@ -27,6 +27,7 @@ robotics and AI.
 
 Previously, I co-founded Auro Robotics, a YCombinator-backed startup (YC S15) that built low-speed autonomous shuttles for last-mile transportation. I led the product development across three autonomous vehicle versions, and launched one of the first commercial autonomous shuttle services in the US in 2016. 
 I also received a research grant from the President of India fund in 2014, and was named in the Forbes Asia 30 Under 30 list in 2017. 
+AT IIT Kharagpur, I co-founded AGV(Autonomous Ground Vehicle), a robotics student research club incubated in the Mining Department, that represented and won awards for the Institute in national and international competitions like IGVC and enabled 30+ bachelors,  master and PhD thesis projects during my tenure. After 10 years, it is still thriving as one of the prominent tech clubs in the university. 
 My technical background lies in robotics, AI and data. I drove/engaged multi-million dollar enterprise deals with automotive, insurance and mobility players.
 
 Other Interests: 
